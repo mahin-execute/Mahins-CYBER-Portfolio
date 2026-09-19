@@ -19,7 +19,7 @@ I am currently pursuing a degree in **Cyber Operations at the University of Ariz
 
 | Project Title | Description | Skills Demonstrated |
 |---------------|-------------|---------------------|
-| [Conducting a Security Audit](./) | Performed a comprehensive security audit for a small business environment. | Risk Assessment, Compliance |
+| [MegaQuagga Incident Remediation & PCAP Analysis](./MegaQuagga_Remediation_Report.pdf) | Analyzed network traffic (PCAP) to identify malicious activity and authored a comprehensive remediation report to mitigate the MegaQuagga threat. | Packet Analysis, Incident Response, Threat Mitigation, Documentation |
 | [Network Traffic Analysis](./) | Captured and analyzed packet data using advanced Wireshark display filters. | Wireshark, Packet Analysis |
 | [Linux File Permissions Management](./) | Utilized Linux command-line tools to secure file access and manage user privileges. | Bash, Linux CLI, IAM |
 | [SQL Query Filtering](./) | Applied filters to SQL queries to extract specific security log data. | SQL, Database Auditing |
