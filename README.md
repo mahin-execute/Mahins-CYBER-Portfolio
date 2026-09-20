@@ -19,7 +19,7 @@ I am currently pursuing a degree in **Cyber Operations at the University of Ariz
 
 | Project Title | Description | Skills Demonstrated |
 |---------------|-------------|---------------------|
-| [MegaQuagga Incident Remediation & PCAP Analysis](./MegaQuagga_Remediation_Report.pdf) | Analyzed network traffic (PCAP) to identify malicious activity and authored a comprehensive remediation report to mitigate the MegaQuagga threat. | Packet Analysis, Incident Response, Threat Mitigation, Documentation |
+| [MegaQuagga Incident Remediation & PCAP Analysis](https://github.com/mahin-execute/Mahins-CYBER-Portfolio/blob/main/%5BSprint%2010%5D%20MegaQuagga%20Remediation%20Report%20%7BS%20M%20Mohiuddin%20Mahmood%7D.docx) | Analyzed network traffic (PCAP) to identify malicious activity and authored a comprehensive remediation report to mitigate the MegaQuagga threat. | Packet Analysis, Incident Response, Threat Mitigation, Documentation |
 | [Network Traffic Analysis](./) | Captured and analyzed packet data using advanced Wireshark display filters. | Wireshark, Packet Analysis |
 | [Linux File Permissions Management](./) | Utilized Linux command-line tools to secure file access and manage user privileges. | Bash, Linux CLI, IAM |
 | [SQL Query Filtering](./) | Applied filters to SQL queries to extract specific security log data. | SQL, Database Auditing |
